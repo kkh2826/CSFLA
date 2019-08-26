@@ -23,7 +23,7 @@
    }
    
    MailSend ms = new MailSend();
-   ms.MailSend("kkh2826@gmail.com", "", email, title, content);
+   ms.MailSend("kkh28264329@gmail.com", "rla464682!", email, title, content);
    response.sendRedirect("../shop/shop.jsp?category=ALL");
 %>
 
